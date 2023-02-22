@@ -1,3 +1,5 @@
 Apple
 Banana
 Chiku
+Pear
+Water melon
